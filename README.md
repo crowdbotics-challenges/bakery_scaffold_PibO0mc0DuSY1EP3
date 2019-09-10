@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_PibO0mc0DuSY1EP3/builds/126880260)
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.org/crowdbotics-challenges/bakery_scaffold_PibO0mc0DuSY1EP3/builds/583311308)
+
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
